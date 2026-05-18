@@ -1,0 +1,1210 @@
+[
+  {
+    "id": "2408.08969v3",
+    "source": "arxiv",
+    "title": "Differentiable Edge-based OPC",
+    "category": "OPC",
+    "year": 2024,
+    "url": "https://arxiv.org/pdf/2408.08969v3"
+  },
+  {
+    "id": "0411570v1",
+    "source": "arxiv",
+    "title": "Optical Properties of Isolated and Supported Metal Nanoparticles",
+    "category": "General Lithography",
+    "year": 2004,
+    "url": "https://arxiv.org/pdf/cond-mat/0411570v1"
+  },
+  {
+    "id": "2003.10722v5",
+    "source": "arxiv",
+    "title": "Theoretical correction methods for optical tweezers: Acquisition of potentials of mean forces between colloidal particles in a bulk and on a surface",
+    "category": "General Lithography",
+    "year": 2020,
+    "url": "https://arxiv.org/pdf/2003.10722v5"
+  },
+  {
+    "id": "2002.05184v1",
+    "source": "arxiv",
+    "title": "Optical designs for realization of a set of schemes for quantum cryptography",
+    "category": "Defect Inspection",
+    "year": 2020,
+    "url": "https://arxiv.org/pdf/2002.05184v1"
+  },
+  {
+    "id": "402bbcf5391c296e63a82648630e5c5176fc53b0",
+    "source": "semantic_scholar",
+    "title": "A Novel Optical Proximity Correction (OPC) System Based on Deep Learning Method for the Extreme Ultraviolet (EUV) Lithography",
+    "category": "OPC",
+    "year": 2023,
+    "url": "https://www.jpier.org/ac_api/download.php?id=22101601"
+  },
+  {
+    "id": "63e61036341b1a9f1933b2783d14bb0611ac0def",
+    "source": "semantic_scholar",
+    "title": "Advanced Optical Proximity Correction (OPC) Techniques in Computational Lithography: Addressing the Challenges of Pattern Fidelity and Edge Placement Error",
+    "category": "OPC",
+    "year": 2022,
+    "url": ""
+  },
+  {
+    "id": "5e20326d48242d6bc51fe2cbcbad6dae774ba471",
+    "source": "semantic_scholar",
+    "title": "Optical proximity correction (OPC): friendly maze routing",
+    "category": "OPC",
+    "year": 2004,
+    "url": ""
+  },
+  {
+    "id": "d2c19378bd64157a282800f712c42cb216efd506",
+    "source": "semantic_scholar",
+    "title": "Optical proximity correction (OPC) in near-field lithography with pixel-based field sectioning time modulation",
+    "category": "OPC",
+    "year": 2018,
+    "url": ""
+  },
+  {
+    "id": "92dcf81d4ca7e36ab69a354e8121b31a4fc4a9c1",
+    "source": "semantic_scholar",
+    "title": "Using Machine Learning Methods to Predict the Magnitude and the Direction of Mask Fragments Displacement in Optical Proximity Correction (OPC)",
+    "category": "OPC",
+    "year": 2021,
+    "url": ""
+  },
+  {
+    "id": "2684826d1a5c89772ccc40cdadc44cfbf1ea0ce8",
+    "source": "semantic_scholar",
+    "title": "A fast manufacturability aware Optical Proximity Correction (OPC) algorithm with adaptive wafer image estimation",
+    "category": "OPC",
+    "year": 2016,
+    "url": ""
+  },
+  {
+    "id": "8b4f561b49f78f06db6a1245b5318cf29012be89",
+    "source": "semantic_scholar",
+    "title": "Understanding the impact of rigorous mask effects in the presence of empirical process models used in optical proximity correction (OPC)",
+    "category": "OPC",
+    "year": 2007,
+    "url": ""
+  },
+  {
+    "id": "e4a0b6eb7a4160a91e56d6eca3d16453530e34e8",
+    "source": "semantic_scholar",
+    "title": "Defining a physically accurate laser bandwidth input for optical proximity correction (OPC) and modeling",
+    "category": "OPC",
+    "year": 2008,
+    "url": ""
+  },
+  {
+    "id": "337bc50ec15a75d049dead0df1e5a0e597b91079",
+    "source": "semantic_scholar",
+    "title": "Optical Proximity Correction (OPC) Under Immersion Lithography Optical Proximity Correction (OPC) Under Immersion Lithography",
+    "category": "OPC",
+    "year": 2018,
+    "url": ""
+  },
+  {
+    "id": "697935d927b4f06d19b0454fcc3eb54713a16053",
+    "source": "semantic_scholar",
+    "title": "Optical Proximity Correction (OPC) Under Immersion Lithography",
+    "category": "OPC",
+    "year": 2017,
+    "url": "https://www.intechopen.com/citation-pdf-url/58480"
+  },
+  {
+    "id": "a2a5bfb6b4b55f7cff62b3314d9a3cc4e1dc30f1",
+    "source": "semantic_scholar",
+    "title": "Optical proximity correction (OPC)-friendly maze routing",
+    "category": "OPC",
+    "year": 2004,
+    "url": ""
+  },
+  {
+    "id": "47c9d0032c2c2d8eba58a4e4f8927eebce9def2f",
+    "source": "semantic_scholar",
+    "title": "Variable-threshold optical proximity correction (OPC) models for high-performance 0.18-\u03bcm process",
+    "category": "OPC",
+    "year": 2000,
+    "url": ""
+  },
+  {
+    "id": "549a23460a7d7553cc46800666c923a9259cb047",
+    "source": "semantic_scholar",
+    "title": "Line end optimization through optical proximity correction (OPC): a case study",
+    "category": "OPC",
+    "year": 2006,
+    "url": ""
+  },
+  {
+    "id": "66d8a7a0fc10c8235c2f59ab1b9712130b5a7b9a",
+    "source": "semantic_scholar",
+    "title": "Investigation of optical proximity correction (OPC) and non-uniformities on the performance of resistivity and linewidth measurements",
+    "category": "OPC",
+    "year": 1999,
+    "url": ""
+  },
+  {
+    "id": "48c1b71bc0548fff429d7cac76a474ac771fdf1b",
+    "source": "semantic_scholar",
+    "title": "Adjustment of optical proximity correction (OPC) software for mask process correction (MPC). Module 1: Optical mask writing tool simulation",
+    "category": "OPC",
+    "year": 2002,
+    "url": ""
+  },
+  {
+    "id": "3e45d115326a8cd87eac37e31c199e8e7ec73995",
+    "source": "semantic_scholar",
+    "title": "Optical Proximity Correction (OPC)",
+    "category": "OPC",
+    "year": 2006,
+    "url": ""
+  },
+  {
+    "id": "1be7525501a242397211abc431bc95033886fc94",
+    "source": "semantic_scholar",
+    "title": "Transferring Optical Proximity Correction (OPC) Effect into Optical Mode",
+    "category": "OPC",
+    "year": 2007,
+    "url": ""
+  },
+  {
+    "id": "0ba3a6cfc52eeba7491d908b7a693e502e62004b",
+    "source": "semantic_scholar",
+    "title": "Adjustment of optical proximity correction (OPC) software for mask process correction (MPC): Module 2. Lithography simulation based on optical mask writing tool simulation",
+    "category": "OPC",
+    "year": 2002,
+    "url": ""
+  },
+  {
+    "id": "5ae373018c900954b86ca70a397f52052c2b3b2b",
+    "source": "semantic_scholar",
+    "title": "Fabrication and pattern transfer of optical proximity correction (OPC) mask",
+    "category": "OPC",
+    "year": 1994,
+    "url": ""
+  },
+  {
+    "id": "a339a0558b656bbba41f1ce4bae525d9a397e2ed",
+    "source": "semantic_scholar",
+    "title": "Stray-light implementation in optical proximity correction (OPC)",
+    "category": "OPC",
+    "year": 2007,
+    "url": ""
+  },
+  {
+    "id": "2309.17343v1",
+    "source": "arxiv",
+    "title": "Neural Lithography: Close the Design-to-Manufacturing Gap in Computational Optics with a 'Real2Sim' Learned Photolithography Simulator",
+    "category": "General Lithography",
+    "year": 2023,
+    "url": "https://arxiv.org/pdf/2309.17343v1"
+  },
+  {
+    "id": "1109.6113v1",
+    "source": "arxiv",
+    "title": "Improved multiscale computational strategies for delamination",
+    "category": "ILT",
+    "year": 2011,
+    "url": "https://arxiv.org/pdf/1109.6113v1"
+  },
+  {
+    "id": "f026ccace13bc837ba8e41163a070d2525150a16",
+    "source": "semantic_scholar",
+    "title": "Hybrid Quantum-Classical Machine Learning for Lithography Hotspot Detection",
+    "category": "ML for Lithography",
+    "year": 2022,
+    "url": ""
+  },
+  {
+    "id": "6f962db46875f071a8d3d3f56b7f2d7e5f7b2fce",
+    "source": "semantic_scholar",
+    "title": "Autoencoder-Based Data Sampling for Machine Learning-Based Lithography Hotspot Detection",
+    "category": "ML for Lithography",
+    "year": 2022,
+    "url": ""
+  },
+  {
+    "id": "2962e8773d741116d5a3b9add077be1daf300f74",
+    "source": "semantic_scholar",
+    "title": "ADAPT: An Adaptive Machine Learning Framework with Application to Lithography Hotspot Detection",
+    "category": "ML for Lithography",
+    "year": 2021,
+    "url": ""
+  },
+  {
+    "id": "ebbf6d0b2ac239cccbc74b5dae21e37dc931ed61",
+    "source": "semantic_scholar",
+    "title": "Machine Learning Based Lithography Hotspot Detection Method and Evaluation",
+    "category": "ML for Lithography",
+    "year": 2020,
+    "url": ""
+  },
+  {
+    "id": "f2964529d0487245814304639102897f6a363a0e",
+    "source": "semantic_scholar",
+    "title": "Predicting sub-50-nm trench hotspots in ArFi lithography for DFM using machine learning",
+    "category": "ILT",
+    "year": 2025,
+    "url": ""
+  },
+  {
+    "id": "998733da6d3ba4e9be3b50cf39343e9de47aff9c",
+    "source": "semantic_scholar",
+    "title": "Robustness of Quantum Federated Learning (QFL) Against \u201cLabel Flipping Attacks\u201d for Lithography Hotspot Detection in Semiconductor Manufacturing",
+    "category": "ML for Lithography",
+    "year": 2024,
+    "url": ""
+  },
+  {
+    "id": "d9ff0ccba6c5a124f63b469290763685b4cc38c2",
+    "source": "semantic_scholar",
+    "title": "Lithography Hotspot Detection Based on Heterogeneous Federated Learning With Local Adaptation and Feature Selection",
+    "category": "ML for Lithography",
+    "year": 2024,
+    "url": ""
+  },
+  {
+    "id": "89b0e07b8f28738cd0963b580ad8fd2b0cb13eed",
+    "source": "semantic_scholar",
+    "title": "Comparison of Machine Learning-Based Lithography Hotspot Detection Methods under Optimized Hyperparameters",
+    "category": "ML for Lithography",
+    "year": 2018,
+    "url": ""
+  },
+  {
+    "id": "8b922376f83a01f7a9281e9358d8520bc7bcdc1b",
+    "source": "semantic_scholar",
+    "title": "Machine learning-enhanced framework for hotspot detection and path-based analysis in advanced semiconductor nodes",
+    "category": "ML for Lithography",
+    "year": 2026,
+    "url": ""
+  },
+  {
+    "id": "e793cead2638d455df02abc5e3e367ad0cb11de0",
+    "source": "semantic_scholar",
+    "title": "Lithography Hotspot Detection Method Based on Transfer Learning Using Pre-Trained Deep Convolutional Neural Network",
+    "category": "ML for Lithography",
+    "year": 2022,
+    "url": "https://www.mdpi.com/2076-3417/12/4/2192/pdf?version=1645628110"
+  },
+  {
+    "id": "2506.03345v1",
+    "source": "arxiv",
+    "title": "Semiconductor SEM Image Defect Classification Using Supervised and Semi-Supervised Learning with Vision Transformers",
+    "category": "ML for Lithography",
+    "year": 2025,
+    "url": "https://arxiv.org/pdf/2506.03345v1"
+  },
+  {
+    "id": "2302.09565v1",
+    "source": "arxiv",
+    "title": "Optimizing YOLOv7 for Semiconductor Defect Detection",
+    "category": "ML for Lithography",
+    "year": 2023,
+    "url": "https://arxiv.org/pdf/2302.09565v1"
+  },
+  {
+    "id": "2407.10348v1",
+    "source": "arxiv",
+    "title": "Addressing Class Imbalance and Data Limitations in Advanced Node Semiconductor Defect Inspection: A Generative Approach for SEM Images",
+    "category": "EUV",
+    "year": 2024,
+    "url": "https://arxiv.org/pdf/2407.10348v1"
+  },
+  {
+    "id": "2308.08376v2",
+    "source": "arxiv",
+    "title": "Automated Semiconductor Defect Inspection in Scanning Electron Microscope Images: a Systematic Review",
+    "category": "ML for Lithography",
+    "year": 2023,
+    "url": "https://arxiv.org/pdf/2308.08376v2"
+  },
+  {
+    "id": "2308.07180v2",
+    "source": "arxiv",
+    "title": "SEMI-CenterNet: A Machine Learning Facilitated Approach for Semiconductor Defect Inspection",
+    "category": "EUV",
+    "year": 2023,
+    "url": "https://arxiv.org/pdf/2308.07180v2"
+  },
+  {
+    "id": "2407.12724v1",
+    "source": "arxiv",
+    "title": "An Evaluation of Continual Learning for Advanced Node Semiconductor Defect Inspection",
+    "category": "EUV",
+    "year": 2024,
+    "url": "https://arxiv.org/pdf/2407.12724v1"
+  },
+  {
+    "id": "2409.06833v2",
+    "source": "arxiv",
+    "title": "Scanning Electron Microscopy-based Automatic Defect Inspection for Semiconductor Manufacturing: A Systematic Review",
+    "category": "ML for Lithography",
+    "year": 2024,
+    "url": "https://arxiv.org/pdf/2409.06833v2"
+  },
+  {
+    "id": "2206.13505v1",
+    "source": "arxiv",
+    "title": "Deep Learning-Based Defect Classification and Detection in SEM Images",
+    "category": "EUV",
+    "year": 2022,
+    "url": "https://arxiv.org/pdf/2206.13505v1"
+  },
+  {
+    "id": "0202377v1",
+    "source": "arxiv",
+    "title": "Interlayer Exchange Coupling in Semiconductor Magnetic/Nonmagnetic Superlattices",
+    "category": "General Lithography",
+    "year": 2002,
+    "url": "https://arxiv.org/pdf/cond-mat/0202377v1"
+  },
+  {
+    "id": "2409.04310v1",
+    "source": "arxiv",
+    "title": "Advancing SEM Based Nano-Scale Defect Analysis in Semiconductor Manufacturing for Advanced IC Nodes",
+    "category": "Defect Inspection",
+    "year": 2024,
+    "url": "https://arxiv.org/pdf/2409.04310v1"
+  },
+  {
+    "id": "797aec6ee9e349fac9b2bc6d67b8f82fd65d2d71",
+    "source": "semantic_scholar",
+    "title": "A Novel Multiscale Residual Aggregation Network-Based Image Super-Resolution Algorithm for Semiconductor Defect Inspection",
+    "category": "Defect Inspection",
+    "year": 2024,
+    "url": ""
+  },
+  {
+    "id": "2407.10348",
+    "source": "semantic_scholar",
+    "title": "Addressing Class Imbalance and Data Limitations in Advanced Node Semiconductor Defect Inspection: A Generative Approach for SEM Images",
+    "category": "EUV",
+    "year": 2024,
+    "url": "http://arxiv.org/pdf/2407.10348"
+  },
+  {
+    "id": "2308.08376",
+    "source": "semantic_scholar",
+    "title": "Automated Semiconductor Defect Inspection in Scanning Electron Microscope Images: a Systematic Review",
+    "category": "ML for Lithography",
+    "year": 2023,
+    "url": "https://arxiv.org/pdf/2308.08376"
+  },
+  {
+    "id": "2308.07180",
+    "source": "semantic_scholar",
+    "title": "SEMI-CenterNet: a machine learning facilitated approach for semiconductor defect inspection",
+    "category": "EUV",
+    "year": 2023,
+    "url": "https://biblio.ugent.be/publication/01HSRBK2STXNBH7G9E36HNFET8/file/01HSRBMGKTJR8C72ABZC8V4WYE.pdf"
+  },
+  {
+    "id": "2506.03345",
+    "source": "semantic_scholar",
+    "title": "Semiconductor SEM Image Defect Classification Using Supervised and Semi-Supervised Learning with Vision Transformers : Topic/category: Defect Inspection and Reduction",
+    "category": "ML for Lithography",
+    "year": 2025,
+    "url": ""
+  },
+  {
+    "id": "86fab8b50a738e9faff2974ae698f3215eff5be7",
+    "source": "semantic_scholar",
+    "title": "Surface pre-charging for mitigating imaging issues in multibeam SEM-based semiconductor device defect inspection",
+    "category": "Defect Inspection",
+    "year": 2025,
+    "url": ""
+  },
+  {
+    "id": "2409.06833",
+    "source": "semantic_scholar",
+    "title": "Scanning electron microscopy-based automatic defect inspection for semiconductor manufacturing: a systematic review",
+    "category": "ML for Lithography",
+    "year": 2024,
+    "url": ""
+  },
+  {
+    "id": "9d3ff229b9328ea49000a6e3f08a4dd207627500",
+    "source": "semantic_scholar",
+    "title": "Effective Downsampling Techniques for SEM Defect Inspection Using Design Insights in Machine Learning: Topic/category: DI: Defect Inspection and Reduction",
+    "category": "ML for Lithography",
+    "year": 2024,
+    "url": ""
+  },
+  {
+    "id": "1255cade98ae03c55b587eb53c0eab98622544d8",
+    "source": "semantic_scholar",
+    "title": "Machine learning based on using layout to generate reference SEM images for defect inspection",
+    "category": "ML for Lithography",
+    "year": 2024,
+    "url": ""
+  },
+  {
+    "id": "dde4cfc36c30b72f35da8452f3e8621c0970b5b5",
+    "source": "semantic_scholar",
+    "title": "Epi Defect Quantification via Massive Metrology SEM Measurement-Based Inspection",
+    "category": "Defect Inspection",
+    "year": 2025,
+    "url": ""
+  },
+  {
+    "id": "2405.09548v1",
+    "source": "arxiv",
+    "title": "Efficient Bilevel Source Mask Optimization",
+    "category": "ILT",
+    "year": 2024,
+    "url": "https://arxiv.org/pdf/2405.09548v1"
+  },
+  {
+    "id": "c131aa293c465f93170970dbd33825a0de0602a6",
+    "source": "semantic_scholar",
+    "title": "Source mask optimization (SMO) study for high-NA EUV lithography to achieve single patterning on random logic metal",
+    "category": "ILT",
+    "year": 2024,
+    "url": ""
+  },
+  {
+    "id": "c30dde6286adc3baa1af79ec34cf2e4dc574c88c",
+    "source": "semantic_scholar",
+    "title": "Simultaneous source mask optimization (SMO)",
+    "category": "ILT",
+    "year": 2005,
+    "url": ""
+  },
+  {
+    "id": "a60b77dbb6324c421dd3d76a5f584acf11eb2c06",
+    "source": "semantic_scholar",
+    "title": "Gradient-based fast source mask optimization (SMO)",
+    "category": "ILT",
+    "year": 2011,
+    "url": "https://ir.nctu.edu.tw:443/bitstream/11536/1685/1/000294216100065.pdf"
+  },
+  {
+    "id": "84232ead79e4cdb0e804712aa6b234d3fcd45bb1",
+    "source": "semantic_scholar",
+    "title": "Considering MEEF in inverse lithography technology (ILT) and source mask optimization (SMO)",
+    "category": "ILT",
+    "year": 2008,
+    "url": ""
+  },
+  {
+    "id": "82b802546c92f80788d9ec0d5056ab3dd64299c4",
+    "source": "semantic_scholar",
+    "title": "Source mask optimization (SMO) at full chip scale using inverse lithography technology (ILT) based on level set methods",
+    "category": "ILT",
+    "year": 2009,
+    "url": ""
+  },
+  {
+    "id": "253073ee6862c324fdaec273708d721401458c0c",
+    "source": "semantic_scholar",
+    "title": "Source-mask optimization (SMO): from theory to practice",
+    "category": "ILT",
+    "year": 2010,
+    "url": ""
+  },
+  {
+    "id": "ffc2d071bafc208123aa332d870c4f3ee500d8ef",
+    "source": "semantic_scholar",
+    "title": "Optimizing Extreme Ultraviolet Lithography Process Metrics and Aberrations in the Cut Layer Through Source Mask Co-Optimization(SMO)",
+    "category": "ILT",
+    "year": 2025,
+    "url": ""
+  },
+  {
+    "id": "a53812a39cd07197cb6ec7a3e26c645e36ccaaf9",
+    "source": "semantic_scholar",
+    "title": "Design compliant source mask optimization (SMO)",
+    "category": "ILT",
+    "year": 2010,
+    "url": ""
+  },
+  {
+    "id": "aa65ea00f78cfab33898ce38a4daf63bbf051ff0",
+    "source": "semantic_scholar",
+    "title": "The study on the diffraction spectrum of adding S-BAR during the source mask optimization (SMO) process",
+    "category": "ILT",
+    "year": 2018,
+    "url": ""
+  },
+  {
+    "id": "3255461adaca8e8adb0850a163a7d985c2df2231",
+    "source": "semantic_scholar",
+    "title": "Inverse Lithography Technology (ILT) Enabled Source Mask Optimization (SMO)",
+    "category": "ILT",
+    "year": 2009,
+    "url": ""
+  },
+  {
+    "id": "0ed9357967ea5e7a10e0ed8b49cea8da85741b43",
+    "source": "semantic_scholar",
+    "title": "Fast model for positive tone development (PTD) source mask optimization (SMO) calibrated by dose tuning",
+    "category": "ILT",
+    "year": 2018,
+    "url": ""
+  },
+  {
+    "id": "9492b4a97d1ca4ba020669474975ead0053c99a5",
+    "source": "semantic_scholar",
+    "title": "Mask enhancer technology with source mask optimization (SMO) for 2Xnm-node logic layout gate fabrication",
+    "category": "ILT",
+    "year": 2011,
+    "url": ""
+  },
+  {
+    "id": "8b64931b2903994056fb62d1b4d3f91bbeee4883",
+    "source": "semantic_scholar",
+    "title": "Patterning Fidelity Enhancement and Aberration Mitigation in EUV Lithography Through Source\u2013Mask Optimization",
+    "category": "ILT",
+    "year": 2025,
+    "url": ""
+  },
+  {
+    "id": "2fe4d84f962cfc04da43cd72cfcda681f9a1faf2",
+    "source": "semantic_scholar",
+    "title": "Controlling the resist profile in EUV imaging using source mask optimization",
+    "category": "ILT",
+    "year": 2025,
+    "url": ""
+  },
+  {
+    "id": "7bd8296f412f6a04d335b8509fb529678193f44f",
+    "source": "semantic_scholar",
+    "title": "Optimizing Free Form Parametric Sources via Source Mask Optimization for Advanced Memory Lithography",
+    "category": "ILT",
+    "year": 2025,
+    "url": ""
+  },
+  {
+    "id": "f6631b33b09d408471d74a9f264adfab2c37499e",
+    "source": "semantic_scholar",
+    "title": "Parametric Source-Mask Optimization Using Hybrid Gradient Descent and Bayesian Optimization",
+    "category": "ILT",
+    "year": 2025,
+    "url": ""
+  },
+  {
+    "id": "a269b67840a0358e4291acd9e7c0a306f31fc24f",
+    "source": "semantic_scholar",
+    "title": "SourceNet: CNN-based source prediction for parametric source mask optimization",
+    "category": "ILT",
+    "year": 2025,
+    "url": ""
+  },
+  {
+    "id": "e4114aa6e0913b44bf6cdb7a6284b52ff745ec87",
+    "source": "semantic_scholar",
+    "title": "Ultrafast Source Mask Optimization via Conditional Discrete Diffusion",
+    "category": "ILT",
+    "year": 2024,
+    "url": ""
+  },
+  {
+    "id": "2405.09548",
+    "source": "semantic_scholar",
+    "title": "Efficient Bilevel Source Mask Optimization",
+    "category": "ILT",
+    "year": 2024,
+    "url": "http://arxiv.org/pdf/2405.09548"
+  },
+  {
+    "id": "8c23a643b299c0189d1620373b8d2ca3f730f73b",
+    "source": "semantic_scholar",
+    "title": "Multi-objective and multi-solution source mask optimization using NSGA-II for more direct process window enhancement.",
+    "category": "ILT",
+    "year": 2024,
+    "url": "https://doi.org/10.1364/oe.515546"
+  },
+  {
+    "id": "1805.10016v1",
+    "source": "arxiv",
+    "title": "In Design DFM Rule Scoring and Fixing Method using ICV",
+    "category": "DFM",
+    "year": 2018,
+    "url": "https://arxiv.org/pdf/1805.10016v1"
+  },
+  {
+    "id": "1808.05999v1",
+    "source": "arxiv",
+    "title": "Context-Aware DFM Rule Analysis and Scoring Using Machine Learning",
+    "category": "Computational Lithography",
+    "year": 2018,
+    "url": "https://arxiv.org/pdf/1808.05999v1"
+  },
+  {
+    "id": "8ef37ad7579c70423ffe6da115cf34c0d9d4a043",
+    "source": "semantic_scholar",
+    "title": "Yield-enhanced layout generation by new design for manufacturability (DfM) flow",
+    "category": "Defect Inspection",
+    "year": 2004,
+    "url": ""
+  },
+  {
+    "id": "a126f85ecd270b849f3c4506e800e9e8e05fc30a",
+    "source": "semantic_scholar",
+    "title": "Integration of design for manufacturability (DFM) practices in design flows",
+    "category": "DFM",
+    "year": 2005,
+    "url": ""
+  },
+  {
+    "id": "4a5c55bf6b735295312d213d8e650659f57ad0b9",
+    "source": "semantic_scholar",
+    "title": "Towards next-generation design-for-manufacturability (DFM) frameworks for electronics product realization",
+    "category": "DFM",
+    "year": 2003,
+    "url": ""
+  },
+  {
+    "id": "2412.02703v1",
+    "source": "arxiv",
+    "title": "Mr.TPL: A Method for Multi-Pin Net Router in Triple Patterning Lithography",
+    "category": "General Lithography",
+    "year": 2024,
+    "url": "https://arxiv.org/pdf/2412.02703v1"
+  },
+  {
+    "id": "1702.04012v1",
+    "source": "arxiv",
+    "title": "Three-dimensional nanoimprint lithography using two-photon lithography master samples",
+    "category": "General Lithography",
+    "year": 2017,
+    "url": "https://arxiv.org/pdf/1702.04012v1"
+  },
+  {
+    "id": "2408.05099v1",
+    "source": "arxiv",
+    "title": "Lithography-free patterning of chalcogenide materials for integrated photonic devices",
+    "category": "General Lithography",
+    "year": 2024,
+    "url": "https://arxiv.org/pdf/2408.05099v1"
+  },
+  {
+    "id": "2005.07148v2",
+    "source": "arxiv",
+    "title": "Applying Droplets and Films in Evaporative Lithography",
+    "category": "General Lithography",
+    "year": 2020,
+    "url": "https://arxiv.org/pdf/2005.07148v2"
+  },
+  {
+    "id": "2409.15306v1",
+    "source": "arxiv",
+    "title": "Open-Source Differentiable Lithography Imaging Framework",
+    "category": "OPC",
+    "year": 2024,
+    "url": "https://arxiv.org/pdf/2409.15306v1"
+  },
+  {
+    "id": "1006.2250v3",
+    "source": "arxiv",
+    "title": "On the efficiency of quantum lithography",
+    "category": "General Lithography",
+    "year": 2010,
+    "url": "https://arxiv.org/pdf/1006.2250v3"
+  },
+  {
+    "id": "1712.03837v1",
+    "source": "arxiv",
+    "title": "Deterministic integration of quantum dots into on-chip multi-mode interference beamsplitters using in-situ electron beam lithography",
+    "category": "General Lithography",
+    "year": 2017,
+    "url": "https://arxiv.org/pdf/1712.03837v1"
+  },
+  {
+    "id": "1404.0321v1",
+    "source": "arxiv",
+    "title": "Layout Decomposition for Quadruple Patterning Lithography and Beyond",
+    "category": "General Lithography",
+    "year": 2014,
+    "url": "https://arxiv.org/pdf/1404.0321v1"
+  },
+  {
+    "id": "1505.01260v1",
+    "source": "arxiv",
+    "title": "Advanced scanning probe lithography",
+    "category": "General Lithography",
+    "year": 2015,
+    "url": "https://arxiv.org/pdf/1505.01260v1"
+  },
+  {
+    "id": "bf96b534a7d328209e8dbca6aefe3b5308954a02",
+    "source": "semantic_scholar",
+    "title": "Challenges and Innovations in Multi-Patterning Lithography for Advanced Node Technologies: Addressing Line Edge Roughness and Critical Dimension Variability",
+    "category": "EUV",
+    "year": 2025,
+    "url": ""
+  },
+  {
+    "id": "97a130447b788f877ab629c99992c3d7a9ab0ef7",
+    "source": "semantic_scholar",
+    "title": "Extremely long life excimer laser chamber technology for multi-patterning lithography",
+    "category": "Patterning",
+    "year": 2019,
+    "url": ""
+  },
+  {
+    "id": "3cbd10aeb2ced4cb07f84c912d233e8308624230",
+    "source": "semantic_scholar",
+    "title": "Extremely long life excimer laser technology for multi-patterning lithography",
+    "category": "Patterning",
+    "year": 2018,
+    "url": ""
+  },
+  {
+    "id": "c26737a18dee212dd6b112636e003606ac5c87cc",
+    "source": "semantic_scholar",
+    "title": "The challenge of multi-patterning lithography for contact layer in 7nm and beyond (Conference Presentation)",
+    "category": "Patterning",
+    "year": 2018,
+    "url": ""
+  },
+  {
+    "id": "032edd79a66cc8af5f189b1288d1af07dde8966e",
+    "source": "semantic_scholar",
+    "title": "An aberration control of projection optics for multi-patterning lithography",
+    "category": "Patterning",
+    "year": 2011,
+    "url": ""
+  },
+  {
+    "id": "c6d068203cb03f4555bdd9636b5fd08cd53eb297",
+    "source": "semantic_scholar",
+    "title": "EUV lithography patterning using multi-trigger resist",
+    "category": "EUV",
+    "year": 2024,
+    "url": ""
+  },
+  {
+    "id": "c756a1a654dc1490e20e26bb621bec622a16fd28",
+    "source": "semantic_scholar",
+    "title": "Novel multi-layer nanoimprint lithography material system enabling nano-patterning of functional optical layers",
+    "category": "General Lithography",
+    "year": 2024,
+    "url": ""
+  },
+  {
+    "id": "c1bee16fdd9a13bf412b650d90886d98b6642461",
+    "source": "semantic_scholar",
+    "title": "Evolution of lithography-to-etch bias in multi-patterning processes",
+    "category": "Patterning",
+    "year": 2022,
+    "url": ""
+  },
+  {
+    "id": "2e27edd9ac2d580ed11e238fd35abed13ccd8a6b",
+    "source": "semantic_scholar",
+    "title": "EUV lithography patterning using multi-trigger resist",
+    "category": "EUV",
+    "year": 2023,
+    "url": ""
+  },
+  {
+    "id": "29201060be7d5f2b5eab33e04ee63bca3f5eeb45",
+    "source": "semantic_scholar",
+    "title": "Ambient Direct Lithography Patterning of Ultra\u2010Stable Perovskite Quantum Dots for High\u2010Resolution Light\u2010Emitting Diodes",
+    "category": "General Lithography",
+    "year": 2025,
+    "url": ""
+  },
+  {
+    "id": "1011.2665v1",
+    "source": "arxiv",
+    "title": "Metrology of EUV Masks by EUV-Scatterometry and Finite Element Analysis",
+    "category": "EUV",
+    "year": 2010,
+    "url": "https://arxiv.org/pdf/1011.2665v1"
+  },
+  {
+    "id": "25a32b943061838e1f66e71e58a6c2a202fcff26",
+    "source": "semantic_scholar",
+    "title": "High-NA optical CD metrology on small in-cell targets enabling improved higher order dose control and process control for logic",
+    "category": "General Lithography",
+    "year": 2017,
+    "url": ""
+  },
+  {
+    "id": "2853e24e1c13f0aebcd9abe47bef38907161820a",
+    "source": "semantic_scholar",
+    "title": "Toward practical application of sub-resolution grating for improved process window control in high and hyper NA EUV lithography",
+    "category": "EUV",
+    "year": 2025,
+    "url": ""
+  },
+  {
+    "id": "10fe60b12a36226cb95ccd086fc484bd3d0bd230",
+    "source": "semantic_scholar",
+    "title": "Process variation monitoring (PVM) by wafer inspection tool as a complementary method to CD-SEM for mapping LER and defect density on production wafers",
+    "category": "Defect Inspection",
+    "year": 2009,
+    "url": ""
+  },
+  {
+    "id": "73892ff3d32bb0f116ace846350001446dcea3f9",
+    "source": "semantic_scholar",
+    "title": "Improvement of CD variation control for attenuated phase-shift mask",
+    "category": "General Lithography",
+    "year": 2007,
+    "url": ""
+  },
+  {
+    "id": "8615f447bbc40992ffa5253e51d67e88fadd7248",
+    "source": "semantic_scholar",
+    "title": "CD process control through machine learning",
+    "category": "ML for Lithography",
+    "year": 2016,
+    "url": ""
+  },
+  {
+    "id": "798cf8004ccb64348af166ede2d283c4d30bb80e",
+    "source": "semantic_scholar",
+    "title": "CD variation control based on accurate characterization of 193-nm material and CD metrology",
+    "category": "General Lithography",
+    "year": 2005,
+    "url": ""
+  },
+  {
+    "id": "bb4d8c9b344e27351672eab1bbb95c469c07e7bd",
+    "source": "semantic_scholar",
+    "title": "Real-time process control to prevent CD variation induced by postexposure delay",
+    "category": "General Lithography",
+    "year": 2000,
+    "url": ""
+  },
+  {
+    "id": "e15fd4f641fe0e00f43e183cfe13542cd4aac0d2",
+    "source": "semantic_scholar",
+    "title": "Process variation challenges and resolution in the negative-tone develop double patterning for 20nm and below technology node",
+    "category": "General Lithography",
+    "year": 2015,
+    "url": ""
+  },
+  {
+    "id": "999fb618f6b8319fa7852c6e52d0ec490dd5a8a0",
+    "source": "semantic_scholar",
+    "title": "The effective etch process proximity correction methodology for improving on chip CD variation in 20 nm node DRAM gate",
+    "category": "General Lithography",
+    "year": 2011,
+    "url": ""
+  },
+  {
+    "id": "8d799c72e06d38d4de77a52a90ccaef5a76fc12f",
+    "source": "semantic_scholar",
+    "title": "Influence and control of CD on defectivity for EUV Pitch 32 Line-Space",
+    "category": "EUV",
+    "year": 2020,
+    "url": ""
+  },
+  {
+    "id": "3a6ff3fe2817d95669cd45525ee72f4eb22f23bc",
+    "source": "semantic_scholar",
+    "title": "Improvement of SADP CD control in 7nm BEOL application",
+    "category": "Process Control",
+    "year": 2020,
+    "url": ""
+  },
+  {
+    "id": "c40a1ea26b75fa053a0c864aea384938661ff12b",
+    "source": "semantic_scholar",
+    "title": "Within-wafer CD variation induced by wafer shape",
+    "category": "General Lithography",
+    "year": 2016,
+    "url": ""
+  },
+  {
+    "id": "1612cfb92f3700395f28817e421bb25ad3dad374",
+    "source": "semantic_scholar",
+    "title": "Gate CD Control Considering Variation of Gate and STI Structure",
+    "category": "Process Control",
+    "year": 2006,
+    "url": ""
+  },
+  {
+    "id": "91bafb4c91ada76017ef67f3d4023f3610de1462",
+    "source": "semantic_scholar",
+    "title": "Application of e-Beam Voltage Contrast Technique for Overlay Improvement and Process Window Control in Multi-Patterning Interconnect Scheme",
+    "category": "ILT",
+    "year": 2022,
+    "url": "https://ieeexplore.ieee.org/ielx7/6245494/6423298/09877843.pdf"
+  },
+  {
+    "id": "2505.07639",
+    "source": "semantic_scholar",
+    "title": "Fundamental understanding of exposure and process chemistry for enhanced lithography and stability of metal oxide resists",
+    "category": "EUV",
+    "year": 2025,
+    "url": ""
+  },
+  {
+    "id": "d647132d671f370755df2122ea8f3d2239223d3a",
+    "source": "semantic_scholar",
+    "title": "Across-wafer CD uniformity control through lithography and etch process: experimental verification",
+    "category": "General Lithography",
+    "year": 2007,
+    "url": ""
+  },
+  {
+    "id": "6b1df66103ed4c2baec0f8e73254814f371a0ebf",
+    "source": "semantic_scholar",
+    "title": "CDU minimization at the 45-nm node and beyond: optical, resist, and process contributions to CD control",
+    "category": "Process Control",
+    "year": 2007,
+    "url": ""
+  },
+  {
+    "id": "6e0085272ce5439f9f00c25dc0acf47b0caca6de",
+    "source": "semantic_scholar",
+    "title": "Advanced process control for poly-Si gate etching using integrated CD metrology",
+    "category": "General Lithography",
+    "year": 2003,
+    "url": ""
+  },
+  {
+    "id": "b8df6d262cc11aff996d34e40e0db840e98ab0f1",
+    "source": "semantic_scholar",
+    "title": "The CD control improvement by using CDSEM 2D measurement of complex OPC patterns",
+    "category": "OPC",
+    "year": 2016,
+    "url": ""
+  },
+  {
+    "id": "23382cc8e95cbe510aeaad1bc2552cd6c31b5e44",
+    "source": "semantic_scholar",
+    "title": "Machine learning optical proximity correction with generative adversarial networks",
+    "category": "OPC",
+    "year": 2022,
+    "url": ""
+  },
+  {
+    "id": "56ba3325a760b1f40ea6c1e06659b1f113d3b90e",
+    "source": "semantic_scholar",
+    "title": "Training dataset optimization for deep learning applied to optical proximity correction on non-regular hole masks",
+    "category": "OPC",
+    "year": 2023,
+    "url": ""
+  },
+  {
+    "id": "a16ec91159fbc661d6c55c052562f258c36dbcf8",
+    "source": "semantic_scholar",
+    "title": "I-line photolithographic metalenses enabled by distributed optical proximity correction with a deep-learning model.",
+    "category": "OPC",
+    "year": 2022,
+    "url": "https://doi.org/10.1364/oe.456469"
+  },
+  {
+    "id": "60aab270d4d2be8b65485bbf6bd59d1fea7ccdd9",
+    "source": "semantic_scholar",
+    "title": "Distributed optical proximity correction with deep-learning lithographic model for i-line photolithography",
+    "category": "OPC",
+    "year": 2021,
+    "url": ""
+  },
+  {
+    "id": "613f05ab12ad43386705fde2e737206a412c487b",
+    "source": "semantic_scholar",
+    "title": "Accurate optical proximity correction using convolutional neural network with feature aggregation",
+    "category": "OPC",
+    "year": 2025,
+    "url": ""
+  },
+  {
+    "id": "15cc0c2c4bedd798d55a92750d0fc8c6d257ac04",
+    "source": "semantic_scholar",
+    "title": "A Novel Fullwave-Guided Optical Proximity Correction System Based on Distorted Born Iterative Method",
+    "category": "OPC",
+    "year": 2025,
+    "url": ""
+  },
+  {
+    "id": "005c833af9ebaad45fe4f50caefd4cac58d0a892",
+    "source": "semantic_scholar",
+    "title": "Research on optical proximity correction with embedded coordinate convolution module",
+    "category": "OPC",
+    "year": 2024,
+    "url": ""
+  },
+  {
+    "id": "979530e724db41a1bd5b5a8b1b5654fc88bb6600",
+    "source": "semantic_scholar",
+    "title": "Data-Driven Approaches for Process Simulation and Optical Proximity Correction",
+    "category": "OPC",
+    "year": 2023,
+    "url": "https://doi.org/10.1145/3566097.3568362"
+  },
+  {
+    "id": "1708.05411v1",
+    "source": "arxiv",
+    "title": "All-optical lithography process for contacting atomically-precise devices",
+    "category": "General Lithography",
+    "year": 2017,
+    "url": "https://arxiv.org/pdf/1708.05411v1"
+  },
+  {
+    "id": "1105.6052v1",
+    "source": "arxiv",
+    "title": "Rigorous Simulations of 3D Patterns on Extreme Ultraviolet Lithography Masks",
+    "category": "EUV",
+    "year": 2011,
+    "url": "https://arxiv.org/pdf/1105.6052v1"
+  },
+  {
+    "id": "2536f3018fb2b733c975fa39979e6a9d0804a5f4",
+    "source": "semantic_scholar",
+    "title": "Analysis of extreme ultraviolet mask defect inspection based on complex amplitudes of the aerial images",
+    "category": "EUV",
+    "year": 2023,
+    "url": ""
+  },
+  {
+    "id": "5d3f8f3ca3b2add9577a7fd635cef93e539489b4",
+    "source": "semantic_scholar",
+    "title": "Actinic defect inspection and characterization for extreme ultraviolet mask blanks",
+    "category": "EUV",
+    "year": 2025,
+    "url": ""
+  },
+  {
+    "id": "c97195aa3f54c81713ceee359f6e5b896bd05c01",
+    "source": "semantic_scholar",
+    "title": "The construction of coherence microscope for extreme ultraviolet mask defect inspection in synchrotron facility",
+    "category": "EUV",
+    "year": 2017,
+    "url": ""
+  },
+  {
+    "id": "072fb702a00b908159364a2c1ceaabbc23ffd36a",
+    "source": "semantic_scholar",
+    "title": "Extreme ultraviolet mask defect inspection with a half pitch 16-nm node using simulated projection electron microscope images",
+    "category": "EUV",
+    "year": 2013,
+    "url": "https://www.spiedigitallibrary.org/journals/journal-of-micro-nanolithography-mems-and-moems/volume-12/issue-2/023013/Extreme-ultraviolet-mask-defect-inspection-with-a-half-pitch-16/10.1117/1.JMM.12.2.023013.pdf"
+  },
+  {
+    "id": "387479b54629cb1c2fc1433dbb8affb70cf5f6be",
+    "source": "semantic_scholar",
+    "title": "Evaluation of extreme ultraviolet mask defect using blank inspection, patterned mask inspection, and wafer inspection",
+    "category": "EUV",
+    "year": 2011,
+    "url": ""
+  },
+  {
+    "id": "33c58c51015c95e02aaf2e4b882633dd8273abf0",
+    "source": "semantic_scholar",
+    "title": "Extreme ultraviolet mask defect simulation: Low-profile defects",
+    "category": "EUV",
+    "year": 2000,
+    "url": ""
+  },
+  {
+    "id": "400acea291b3d961d20f7fe6eb2e539a4adf0fac",
+    "source": "semantic_scholar",
+    "title": "Extreme ultraviolet mask defect simulation",
+    "category": "EUV",
+    "year": 1999,
+    "url": ""
+  },
+  {
+    "id": "24098adab6e5dbd2c43d986bed34a39d71084e2b",
+    "source": "semantic_scholar",
+    "title": "Study on defocus image-based template matching algorithm for extreme ultraviolet mask phase defect detection",
+    "category": "EUV",
+    "year": 2022,
+    "url": ""
+  },
+  {
+    "id": "5c3fcf4c8ab34b4401b28bb48ac307c7cde10406",
+    "source": "semantic_scholar",
+    "title": "Phase defects classification in extreme ultraviolet mask blanks via ResNet-50 with an attention mechanism",
+    "category": "EUV",
+    "year": 2025,
+    "url": ""
+  },
+  {
+    "id": "cd30074def238fbdf904e7ee9b5111caf2d03994",
+    "source": "semantic_scholar",
+    "title": "Phase defect detection algorithm for extreme ultraviolet mask blank based on watershed edge detection",
+    "category": "EUV",
+    "year": 2021,
+    "url": ""
+  },
+  {
+    "id": "61efe33f4cf318208057da0cb398cfb03ce649ad",
+    "source": "semantic_scholar",
+    "title": "Defect repairs for the extreme ultraviolet mask",
+    "category": "EUV",
+    "year": 2021,
+    "url": ""
+  },
+  {
+    "id": "9d964cdf484b2e7b1cde746d28aab3fb202b083d",
+    "source": "semantic_scholar",
+    "title": "Extreme ultraviolet mask defect observation using an extreme ultraviolet microscope",
+    "category": "EUV",
+    "year": 2013,
+    "url": ""
+  },
+  {
+    "id": "c4dab27f094d015b38234d3a609993c32ab59ac1",
+    "source": "semantic_scholar",
+    "title": "Stochastic simulation of photon propagation in Si for extreme-ultraviolet mask-defect inspection",
+    "category": "EUV",
+    "year": 2010,
+    "url": "http://ntur.lib.ntu.edu.tw/news/agent_contract.pdf"
+  },
+  {
+    "id": "ac11ab5faca221474ba2ad903dcf68bc152dc9f5",
+    "source": "semantic_scholar",
+    "title": "Defect avoidance for extreme ultraviolet mask defects using intentional pattern deformation",
+    "category": "EUV",
+    "year": 2018,
+    "url": "https://escholarship.org/content/qt5gr6q92p/qt5gr6q92p.pdf?t=p7bt7m"
+  },
+  {
+    "id": "a17fb0b90eece4d827887cca8db1df07142e0470",
+    "source": "semantic_scholar",
+    "title": "Extreme Ultraviolet Multilayer Defect Profile Parameters Reconstruction via Transfer Learning with Fine-Tuned VGG-16",
+    "category": "EUV",
+    "year": 2025,
+    "url": ""
+  },
+  {
+    "id": "3ab12744ea7dbd35bc509946ebcb3ed83829f16c",
+    "source": "semantic_scholar",
+    "title": "Actinic mask inspection for the era of high-numerical aperture extreme ultraviolet lithography",
+    "category": "EUV",
+    "year": 2024,
+    "url": ""
+  },
+  {
+    "id": "61a7bd2dffa427f6a60635c3980b0c0e16e260d7",
+    "source": "semantic_scholar",
+    "title": "Extreme ultraviolet lithography patterned mask defect detection performance evaluation toward 16- to 11-nm half-pitch generation",
+    "category": "EUV",
+    "year": 2015,
+    "url": ""
+  },
+  {
+    "id": "5a65200a9b1d0a733393926506ca42046243bbeb",
+    "source": "semantic_scholar",
+    "title": "Variation in phase defect size on extreme ultraviolet mask before and after reflective multilayer coating",
+    "category": "EUV",
+    "year": 2015,
+    "url": ""
+  },
+  {
+    "id": "d66f7eb413fbafc18aaeb9156ec51b4e84549a32",
+    "source": "semantic_scholar",
+    "title": "Through-pellicle imaging of extreme ultraviolet mask with extreme ultraviolet ptychography microscope",
+    "category": "EUV",
+    "year": 2019,
+    "url": "https://www.spiedigitallibrary.org/journals/journal-of-micro-nanolithography-mems-and-moems/volume-18/issue-3/034005/Through-pellicle-imaging-of-extreme-ultraviolet-mask-with-extreme-ultraviolet/10.1117/1.JMM.18.3.034005.pdf"
+  },
+  {
+    "id": "67aff86d73a730fe713f42b9599798df1c6eb6a9",
+    "source": "semantic_scholar",
+    "title": "Patterning dependence on the mask defect for extreme ultraviolet lithography",
+    "category": "EUV",
+    "year": 2015,
+    "url": ""
+  }
+]
