@@ -10,13 +10,7 @@ ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 LLM_MODEL = "claude-sonnet-4-6"
 TEXT_EMBEDDING_MODEL = "all-mpnet-base-v2"
 IMAGE_EMBEDDING_MODEL = "openai/clip-vit-base-patch32"
-IMAGE_CAPTION_MODEL = "claude-haiku-4-5-20251001"
-CLASSIFICATION_MODEL = "claude-haiku-4-5-20251001"
-
-# Image type routing
-CLIP_IMAGE_TYPES = ["layout", "wafer", "sem", "simulation"]
-CAPTION_IMAGE_TYPES = ["diagram", "flowchart", "schematic"]
-AUTO_CLASSIFY_IMAGES = True
+IMAGE_REASONING_MODEL = "claude-haiku-4-5-20251001"
 
 # Chunking
 CHUNK_SIZE = 1000
@@ -25,6 +19,8 @@ RETRIEVE_K = 3
 
 #Paper sources
 PAPER_SOURCES = ["arxiv", "semantic_scholar"]
+
+PAPERS_FILE = "scripts/papers.json"
 
 # Paths
 DOCS_DIR = "docs"
