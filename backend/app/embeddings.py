@@ -153,3 +153,26 @@ def embed_image(image: dict) -> dict | None:
         "clip_embedding": clip_embedding,
         "reasoning": reasoning
     }
+
+# ── helper for text only clip embedding ─────────────────────────────
+def embed_text_clip(text: str) -> list[float]:
+    """
+    Embed text alone using CLIP's text encoder.
+    Used for searching the image collection with a text question.
+    """
+    tokens = clip_processor.tokenizer(
+        text,
+        truncation=True,
+        max_length=77,
+        return_tensors="pt"
+    )
+    with torch.no_grad():
+        text_out = clip_model.get_text_features(
+            input_ids=tokens["input_ids"],
+            attention_mask=tokens["attention_mask"]
+        )
+        text_tensor = text_out if isinstance(text_out, torch.Tensor) else text_out.pooler_output
+
+    embedding = text_tensor.squeeze().numpy()
+    embedding = embedding / np.linalg.norm(embedding)
+    return embedding.tolist()
