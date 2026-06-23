@@ -25,3 +25,19 @@ def sync_db() -> bool:
         print("Local knowledge base found — ready.")
         return True
     return download_db()
+
+def upload_db() -> bool:
+    print("Uploading knowledge base to Hugging Face...")
+    try:
+        from huggingface_hub import upload_folder
+        upload_folder(
+            folder_path=LOCAL_DB_PATH,
+            repo_id=HF_REPO_ID,
+            repo_type="dataset",
+            token=HF_TOKEN
+        )
+        print("Upload successful.")
+        return True
+    except Exception as e:
+        print(f"Upload failed: {e}")
+        return False
