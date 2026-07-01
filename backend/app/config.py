@@ -23,8 +23,13 @@ PAPER_SOURCES = ["arxiv", "semantic_scholar"]
 PAPERS_FILE = "scripts/papers.json"
 
 # Paths
-DOCS_DIR = "docs"
-CHROMA_DIR = "chroma_db"
+# Anchor all paths to the project root, regardless of where the process is launched from
+# __file__ = .../LithoMind/backend/app/config.py
+# one level up -> backend/app
+# two levels up -> backend
+# three levels up -> LithoMind (project root)
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+CHROMA_DIR = os.path.join(BASE_DIR, "chroma_db")
 
 # Hugging Face
 HF_REPO_ID = "mahy777/lithomind-knowledge-base"
